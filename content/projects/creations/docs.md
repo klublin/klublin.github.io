@@ -3,7 +3,6 @@
   "date": "2018-02-11T12:41:05-05:00",
   "image": "/img/docs.PNG",
   "link": "https://github.com/klublin/CSE356",
-  "image": "/img/aafb-agent-ids-match-bamboo.webp",
   "description": "Google docs offers real time collaborative editing. This program offers the same thing with a different synchronization method. Google Docs uses Operational Transform(OT) to synchronize users. This project uses a CRDT implementation called YJS to sync users. The app is deployed on the Cloud and offers authentication of users, an Edit UI and document search",
   "tags": ["JavaScript","NodeJS", "Express", "MongoDB", "elasticsearch", "UpCloud", "Linux", "Server Sent Events","REST APIs", "Redis", "YJS", "React", "Nginx"],
   "fact": "",
