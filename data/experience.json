@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Teacher Assistant",
+        "company":"Stony Brook",
+        "summary": "TA for Discrete Mathematics. Responsibilites included: Hosting recitation for about 30 students, holding office hours for 4 hours a week and grading exams for about 130 students",
+        "range":"Janurary 2022 - May 2022"
+    },
+    {
+        "role":"Tutor",
+        "company":"Ace Learning",
+        "summary":"Taught Python and Java to 5th to 8th graders over Zoom. Responsibilites included: Creating assignments to practice problem solving and held 2 classes a week teaching basic Objected Oriented Programming and Data Structures",
+        "range":"July 2020 - August 2020"
+    }
+]

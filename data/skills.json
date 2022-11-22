@@ -1,0 +1,28 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "Load Balancing","Microservices","RESTful APIs" ]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "C++","Java","Python","git","linux", "bash", "javascript"]
+  },
+  {
+      "grouping":"Tools",
+      "skills":[ "NGINX", "Kubernetes" ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        "MongoDB",
+        {"name":"Redis"},
+        {"name": "elasticsearch"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"UpCloud","link":"https://upcloud.com/"}
+      ]
+  }
+]

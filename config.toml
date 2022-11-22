@@ -1,0 +1,44 @@
+title = "Kevin Wei"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+publishDir = "docs"
+
+[params]
+address = "(516)-637-8931"
+email = "seabook02@hotmail.com"
+favicon = "/favicon.ico"
+firstName = "Kevin"
+lastName = "Wei"
+phone = "(516)-637-8931"
+profileImage = "img/pfp.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/kevin-wei-104stony/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/klublin/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
