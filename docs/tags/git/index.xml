@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Kevin Wei</title>
-    <link>https://example.com/tags/git/</link>
+    <link>https://klublin.github.io/tags/git/</link>
     <description>Recent content in Git on Kevin Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klublin.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Playlister App</title>
-      <link>https://example.com/projects/creations/playlister/</link>
+      <link>https://klublin.github.io/projects/creations/playlister/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/playlister/</guid>
+      <guid>https://klublin.github.io/projects/creations/playlister/</guid>
       <description>Similar to Spotify, this app allows the user to create playlists, delete them and create accounts. The app includes authentication of users using JWT tokens, persistent storage of playlists and youtube links to songs.</description>
     </item>
     
     <item>
       <title>Telephone Exchange</title>
-      <link>https://example.com/projects/creations/thread/</link>
+      <link>https://klublin.github.io/projects/creations/thread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/thread/</guid>
+      <guid>https://klublin.github.io/projects/creations/thread/</guid>
       <description>Multithreaded program to allow communication between telephone units. Using the command utility Telnet, terminals were allowed to send messages to each other in order to faciliate communication. There was one central unit which created telephone units, where each unit was its own thread. Each unit handled creating its own sockets and accepting and binding on ports. Able to handle more than 30 connections at once.</description>
     </item>
     

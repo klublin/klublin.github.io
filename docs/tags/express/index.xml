@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Express on Kevin Wei</title>
-    <link>https://example.com/tags/express/</link>
+    <link>https://klublin.github.io/tags/express/</link>
     <description>Recent content in Express on Kevin Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/express/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klublin.github.io/tags/express/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google Docs Clone</title>
-      <link>https://example.com/projects/creations/docs/</link>
+      <link>https://klublin.github.io/projects/creations/docs/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/docs/</guid>
+      <guid>https://klublin.github.io/projects/creations/docs/</guid>
       <description>Google docs offers real time collaborative editing. This program offers the same thing with a different synchronization method. Google Docs uses Operational Transform(OT) to synchronize users. This project uses a CRDT implementation called YJS to sync users. The app is deployed on the Cloud and offers authentication of users, an Edit UI and document search. User authentication is done using Redis and MongoDB, front-end was created using React and backend is an Express App with a reverse proxy of Nginx.</description>
     </item>
     

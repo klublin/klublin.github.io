@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on Kevin Wei</title>
-    <link>https://example.com/projects/creations/</link>
+    <link>https://klublin.github.io/projects/creations/</link>
     <description>Recent content in Creations on Kevin Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klublin.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google Docs Clone</title>
-      <link>https://example.com/projects/creations/docs/</link>
+      <link>https://klublin.github.io/projects/creations/docs/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/docs/</guid>
+      <guid>https://klublin.github.io/projects/creations/docs/</guid>
       <description>Google docs offers real time collaborative editing. This program offers the same thing with a different synchronization method. Google Docs uses Operational Transform(OT) to synchronize users. This project uses a CRDT implementation called YJS to sync users. The app is deployed on the Cloud and offers authentication of users, an Edit UI and document search. User authentication is done using Redis and MongoDB, front-end was created using React and backend is an Express App with a reverse proxy of Nginx.</description>
     </item>
     
     <item>
       <title>Playlister App</title>
-      <link>https://example.com/projects/creations/playlister/</link>
+      <link>https://klublin.github.io/projects/creations/playlister/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/playlister/</guid>
+      <guid>https://klublin.github.io/projects/creations/playlister/</guid>
       <description>Similar to Spotify, this app allows the user to create playlists, delete them and create accounts. The app includes authentication of users using JWT tokens, persistent storage of playlists and youtube links to songs.</description>
     </item>
     
     <item>
       <title>Telephone Exchange</title>
-      <link>https://example.com/projects/creations/thread/</link>
+      <link>https://klublin.github.io/projects/creations/thread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/thread/</guid>
+      <guid>https://klublin.github.io/projects/creations/thread/</guid>
       <description>Multithreaded program to allow communication between telephone units. Using the command utility Telnet, terminals were allowed to send messages to each other in order to faciliate communication. There was one central unit which created telephone units, where each unit was its own thread. Each unit handled creating its own sockets and accepting and binding on ports. Able to handle more than 30 connections at once.</description>
     </item>
     
